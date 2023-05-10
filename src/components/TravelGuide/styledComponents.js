@@ -19,12 +19,6 @@ export const Heading = styled.h1`
   margin: 10px;
   align-self: center;
 `
-
-export const LoadContainer = styled.div`
-  height: 80vh;
-  padding-top: 200px;
-  align-self: center;
-`
 export const TravelCardContainer = styled.ul`
   display: flex;
   flex-direction: row;
