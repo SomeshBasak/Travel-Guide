@@ -5,7 +5,6 @@ import TravelCard from '../TravelCard'
 import {
   MainContainer,
   Heading,
-  
   TravelCardContainer,
 } from './styledComponents'
 
